@@ -1,0 +1,2 @@
+quote = "'"
+print(quote)
